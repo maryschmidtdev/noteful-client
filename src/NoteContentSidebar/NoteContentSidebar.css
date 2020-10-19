@@ -1,12 +1,11 @@
-
-.NotePageNav__back-button {
-  margin: 45px 20px 25px auto
+.NoteContentSidebar__back-button {
+  margin: 45px 20px 25px auto;
 }
-.NotePageNav__back-button:hover {
-  background-color: #FFB72F;
+.NoteContentSidebar__back-button:hover {
+  background-color: #ffb72f;
 }
 
-.NotePageNav__folder-name {
+.NoteContentSidebar__folder-name {
   color: #b5b3b3;
   font-family: var(--custom-font);
   font-size: 40px;
